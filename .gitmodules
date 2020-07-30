@@ -1,0 +1,6 @@
+[submodule "be-the-hero-backend"]
+	path = be-the-hero-backend
+	url = https://github.com/guipolive/be-the-hero.backend.git
+[submodule "be-the-hero-frontend"]
+	path = be-the-hero-frontend
+	url = https://github.com/guipolive/be-the-hero.frontend.git
